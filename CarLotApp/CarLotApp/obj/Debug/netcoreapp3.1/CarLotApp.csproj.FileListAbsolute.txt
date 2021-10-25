@@ -1,0 +1,28 @@
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.exe
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.deps.json
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.runtimeconfig.json
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.runtimeconfig.dev.json
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.dll
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.pdb
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.AssemblyInfo.cs
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.dll
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.pdb
+C:\Users\ewalter\source\repos\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.genruntimeconfig.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.exe
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.deps.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.runtimeconfig.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.runtimeconfig.dev.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\bin\Debug\netcoreapp3.1\CarLotApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.AssemblyInfo.cs
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs2\CarLotApp\CarLotApp\obj\Debug\netcoreapp3.1\CarLotApp.genruntimeconfig.cache
